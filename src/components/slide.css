@@ -1,6 +1,9 @@
 .slide_img{
     height:500px;
+    max-width: 100%; 
+      display: block;
     }
     .slide_box{
       padding-top: 20px;
+
     }
